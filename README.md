@@ -1,10 +1,3 @@
-Here is a **professional README.md** you can **directly copy-paste into your repo** for your project **Blockchain Rural Crowdfunding**. This type of README looks **very strong for hackathons and judges**.
-
----
-
-# Copy Paste This README.md
-
-```markdown
 # 🌾 Blockchain Rural Crowdfunding Platform
 
 A transparent decentralized crowdfunding platform designed to help **Rural Self-Help Groups (SHGs)** raise funds for agriculture equipment, micro-businesses, and community development.
